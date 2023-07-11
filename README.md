@@ -13,3 +13,34 @@ Furthermore, given that scientific writing has specific requirements regarding c
 
 ## Usage
 
+### Markdow Syntax
+
+```markdown
+
+Here is the first reference[^first].
+
+The expected style of cross-reference[^anyStringIsOk].
+
+Here is the third reference[^another].
+
+[^first]: basic footnote content.
+
+[^anyStringIsOk]: [AMA STYLE GUIDE](https://guides.lib.uw.edu/hsl/ama/intext).
+
+[^another]: [Wiki](https://www.wikiwand.com/en/Wiki).
+
+```
+
+### Rendered Webpage
+
+**Content**: 
+
+<img width="302" alt="image" src="https://github.com/nirvana6/hexo-reference-sci/assets/2957421/8433df93-77d6-462d-ad21-88d6e52f6399">
+
+
+**Reference**: 
+
+<img width="280" alt="image" src="https://github.com/nirvana6/hexo-reference-sci/assets/2957421/1280a24b-c26c-4443-907f-5d13670653d1">
+
+
+
