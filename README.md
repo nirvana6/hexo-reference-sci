@@ -1,5 +1,4 @@
 # hexo-reference-sci
-![download](https://github.com/nirvana6/hexo-reference-sci/assets/2957421/87aba784-a0cb-479b-a065-08c2d0e1854d)
 
 ## Introduction 
 
