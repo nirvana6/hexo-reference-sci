@@ -6,20 +6,17 @@
 
 Furthermore, given that scientific writing has specific requirements regarding citation formatting and other aspects compared to general writing, this plugin will undergo significant modifications based on the existing one.
 
-## 02. Project Target
+## 02. Objective
 
-This hexo plugin will generate cross-reference when wring scitific paper or blog. The expected style will be build on base of [AMA STYLE GUIDE](https://guides.lib.uw.edu/hsl/ama/intext). We will make several minor adjustments in the context of blog webpage. 
+This hexo plugin will generate cross-reference when wring scitific paper or blog. On base of [AMA STYLE GUIDE](https://guides.lib.uw.edu/hsl/ama/intext), several adjustments is necessary in the context of webpage. The following is a sample:  
 
-### In-text Citations Basics
+## 03. Text Sample
 
-<u>The main contentshould</u>:
+**In-text Citations Basics:**
 
-1. Use superscript arabic numerals to cite material, e.g., <sup>[1]</sup>. The first reference used in a written document is listed as 1 in the reference list.
-2. If there are server citations, each number should be displayed. For example, here are several citations<sup>[2][3]</sup>.
+Use superscript arabic numerals to cite material, e.g., <sup>[1]</sup>. The first reference used in a written document is listed as 1 in the reference list. If there are server citations, each number should be displayed. For example, here are several citations<sup>[2][3]</sup>.
 
-### Rendered Reference
-
-<u>The rendered reference are as follows</u>:
+**References**
 
 1\. [Cancer Research Funding](http://www.cancer.gov.offcampus.lib.washington.edu/cancertopics/factsheet/NCI/research-funding). National Cancer Institute. Publication date unavailable. Updated June 6, 2011. Accessed November 3, 2012.
 
@@ -27,7 +24,7 @@ This hexo plugin will generate cross-reference when wring scitific paper or blog
 
 3\. Gradishar WJ. Taxanes for the treatment of metastatic breast cancer. _Breast Cancer (Auckl.)_. 2012;6:159-171.
    
-## 03. Usage
+## 04. Usage
 
 ### Markdow Syntax
 
