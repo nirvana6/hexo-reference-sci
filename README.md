@@ -14,7 +14,7 @@ This hexo plugin will generate cross-reference when wring scitific paper or blog
 
 **In-text Citations Basics:**
 
-Use superscript arabic numerals to cite material, e.g., <sup>[1]</sup>. The first reference used in a written document is listed as 1 in the reference list. If there are server citations, each number should be displayed. For example, here are several citations<sup>[2][3]</sup>.
+Use superscript arabic numerals to cite material<sup>[1]</sup>. The first reference used in a written document is listed as 1 in the reference list. If there are server citations, each number should be displayed. For example, here are several citations<sup>[2][3]</sup>.
 
 **References**
 
