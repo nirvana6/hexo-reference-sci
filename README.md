@@ -26,7 +26,7 @@ Use superscript arabic numerals to cite material, e.g., <sup>[1]</sup>. The firs
    
 ## 04. Usage
 
-### Markdow Syntax
+### 4.1 Markdow Syntax
 
 ```markdown
 
@@ -44,7 +44,7 @@ Here is the third reference[^another].
 
 ```
 
-### Rendered Webpage
+### 4.2 Rendered Webpage
 
 **Content**: 
 
